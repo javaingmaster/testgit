@@ -2,3 +2,4 @@ master txt  other
 has fix
 fix2 no commit
 fix update
+add in master push to remote fix
